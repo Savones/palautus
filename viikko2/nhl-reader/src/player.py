@@ -8,5 +8,5 @@ class Player:
 
     def __str__(self):
         return f"""
-{self.name} team {self.team} goals {self.goals} assists {self.assists}
+{self.name:20} {self.team:5} {self.goals:3} + {self.assists:3} = {self.assists + self.goals}
 """
