@@ -1,3 +1,1 @@
-
-    # for player in players:
-    #     print(player)
+top_scorers_by_nationality
